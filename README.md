@@ -1,0 +1,2 @@
+# fruthiecodes.me
+Fruthie website
